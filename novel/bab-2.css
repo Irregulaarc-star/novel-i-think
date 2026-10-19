@@ -260,9 +260,9 @@
   }
   
   .novel article p {
-    margin-bottom: 1em;
-    line-height: 1.8;
-  }
+  margin-bottom: 1.2em;
+  line-height: 1.8;
+}
   
   .chapter-number {
     text-align: center;
